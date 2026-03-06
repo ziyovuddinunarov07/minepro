@@ -1,2 +1,2 @@
 # myfisrts-project
-My DevOps practie repository
+My DevOps practice repository
