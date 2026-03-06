@@ -1,0 +1,1 @@
+Hi. This file work for droping information about the project, what program do, what kind of program need to wroking the program and so on.
